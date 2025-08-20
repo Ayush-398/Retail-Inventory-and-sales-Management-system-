@@ -12,6 +12,8 @@ worry of data collision.
 <img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/2041d9c7-6092-44d3-bb99-1b90cb6f0390" />
 
 #System Architecture
+<img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/79adc2f4-0ed2-41ae-9093-e12e17251648" />
+
 The Client Tier (User Interface)  
 This tier represents the user-facing portion of the application which runs locally on the desktop of end users. 
 In this system, the client tier is responsible for the presentation and execution of the business logic. 
