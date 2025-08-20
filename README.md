@@ -15,3 +15,6 @@ the user interface for the app was visually built using Progress
 AppBuilder. AppBuilder is widely used for its Rapid Application Development (RAD) capabilities. In 
 AppBuilder, the developers do not have to deal with the complexities of coding the GUI by hand
 <img width="1099" height="1236" alt="image" src="https://github.com/user-attachments/assets/2041d9c7-6092-44d3-bb99-1b90cb6f0390" />
+
+<img width="1069" height="821" alt="image" src="https://github.com/user-attachments/assets/19ee5ff8-beb3-49a1-acb9-61e1d6df4077" />
+
