@@ -48,3 +48,15 @@ This tier is the back end of the system and is responsible for the storage and m
 <p align="center">
   <img width="1192" alt="Database Design" src="https://github.com/user-attachments/assets/f3ddf418-e130-4fce-8d52-c7a757e8785f">
 </p>
+
+### Table: `retailuser`
+- **Database:** `retaildb`
+- **Description:** The `retailuser` table is designed to store user-specific data, including details about usernames, passwords, attempts, and administrative statuses (Admin, Salesperson). The purpose of this table is to manage user accounts within the application, providing all necessary fields for user identification, authentication, and access control.
+
+### Table: `ProductMaster`
+- **Database:** `retaildb`
+- **Description:** The `ProductMaster` table stores information about inventory. It includes fields such as `productid` (a unique product identifier), `productname`, `category`, `price`, and `stockquantity`. The `productid` field is the primary key and is always greater than zero. Additionally, the table is indexed by both `productid` and `productname` to allow for quick searches and retrieval.
+
+### Table: `SalesTransaction`
+- **Database:** `retaildb`
+- **Description:** The `SalesTransaction` table stores records of individual sales transactions. It contains fields including `transactionid` (a unique identifier for each sale), `transactiondate`, `productid` (a reference to the `ProductMaster` table), `quantitysold`, and `totalprice`. The `transactionid` serves as the primary key and is always greater than zero. The table also has an index on `productid` to allow for fast queries by product.
