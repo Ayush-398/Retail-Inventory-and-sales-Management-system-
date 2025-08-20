@@ -38,7 +38,7 @@ This tier is the back end of the system and is responsible for the storage and m
 ## Application Interface
 
 <p align="center">
-  <img width="1069" alt="Application Interface" src="https://github.com/user-attachments/assets/19ee5ff8-beb3-49a1-acb9-61e1d6df4077">
+  <img width="1069" alt="Application Interface" src="https://github.com/user-attachments/assets/33a00b25-3053-417c-b8dc-442e00239308">
 </p>
 
 ---
