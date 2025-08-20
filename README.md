@@ -32,4 +32,7 @@ computer.
 • the system also system utilize a Progress OpenEdge RDBMS database. which is a multi-user database, allowing many client 
 applications to connect and perform work at the same time without data corruption.
 <img width="1069" height="821" alt="image" src="https://github.com/user-attachments/assets/19ee5ff8-beb3-49a1-acb9-61e1d6df4077" />
+#Database design
+<img width="1192" height="918" alt="image" src="https://github.com/user-attachments/assets/f3ddf418-e130-4fce-8d52-c7a757e8785f" />
+
 
