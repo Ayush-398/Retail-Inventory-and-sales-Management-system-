@@ -1,4 +1,4 @@
-# Retail-Inventory-and-sales-Management-system
+## Retail-Inventory-and-sales-Management-system
 The Retail Inventory and Management System is a desktop application that is intended to simplify and 
 enhance retail operations. It has an easy-to-use interface and allows an administrator to easily manage the 
 inventory and produce a sales report all while allowing sales staff to quickly and easily enter sales data. It 
